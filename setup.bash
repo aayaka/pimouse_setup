@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#witten by A.Asai
 
 exec 2> /tmp/setup.log
 
